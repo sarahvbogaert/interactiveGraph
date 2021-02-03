@@ -9,4 +9,4 @@ A screenshot of the chart is visible in figure example.png.
 
 The chart is interactive because the user can move the horizontal line and see the changes of color in the bars resulting from the new position of the line.
 
-The interactive chart is visible through the jupyter notebook interactive_graph.ipynb
+The interactive chart is obtained through the jupyter notebook interactive_graph.ipynb. The python code is visible in file interactive_graph.py
